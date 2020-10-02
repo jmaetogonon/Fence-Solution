@@ -1,0 +1,12 @@
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\bin\Debug\prjFenceProject_Mabasa.exe.config
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\bin\Debug\prjFenceProject_Mabasa.exe
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\bin\Debug\prjFenceProject_Mabasa.pdb
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\bin\Debug\prjFenceProject_Mabasa.xml
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.vbprojAssemblyReference.cache
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.Resources.resources
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.vbproj.GenerateResource.cache
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.vbproj.CoreCompileInputs.cache
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.exe
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.xml
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.pdb
+C:\Users\karel\source\repos\slnFenceSolution_Mabasa\prjFenceProject_Mabasa\obj\Debug\prjFenceProject_Mabasa.frmMain.resources
